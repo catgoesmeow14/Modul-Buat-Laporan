@@ -1,0 +1,133 @@
+#card {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 450px;
+    margin: 96px auto 129.6px auto;
+    width: 400px;
+}
+
+.jumbotron {
+    margin-top: 10px;
+    background: url('Gambar/market5.png');
+    color: #35485a;
+}
+
+.jumbotorn_h {
+    font-family: "Raleway", sans-serif;
+    font-size: 16pt;
+}
+
+input[type=password]{
+    background-position: 10px 5px;
+    background-repeat: no-repeat;
+    background-size: 35px;
+    background-image: url('Gambar/key3.jpg');
+}
+
+input[type=text]{
+    background-position: 10px 5px;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-image: url('Gambar/user2.jpg');
+}
+
+body {
+    background-image: url('Gambar/a.jpg');
+    background-repeat: no-repeat;
+}
+
+#card-content {
+    padding: 12px 44px;
+}
+
+#card-title {
+    font-family: "Raleway Thin", sans-serif;
+    letter-spacing: 4px;
+    padding-top: 13px;
+    text-align: center;
+}
+
+.underline-title {
+    background: -webkit-linear-gradient(right, #47838b, #8fc8ce);
+    height: 3px;
+    margin: -9.6px auto 0 auto;
+    width: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+label {
+    font-family: "Raleway", sans-serif;
+    font-size: 11pt;
+}
+
+#pesan-login {
+    color: #708e9c;
+    font-family: "Raleway", sans-serif;
+    font-size: 10pt;
+    margin-top: 15px;
+    text-align: center;
+    background: -webkit-linear-gradient(right, #d7dddd, #c3d1d4);
+    border-radius: 10px;
+    height: 30px;
+    padding-top: 5px;
+}
+
+#pesan-login2 {
+    color: #640b0b;
+    font-family: "Raleway", sans-serif;
+    font-size: 11pt;
+    background: -webkit-linear-gradient(right, #a87d84, #cf3a3a);
+    border-radius: 5px;
+    margin-left: 11px;
+}
+
+#pesan-login3 {
+    color: #726703;
+    font-family: "Raleway", sans-serif;
+    font-size: 11pt;
+    background: -webkit-linear-gradient(right, #b9be72, #cfcd3a);
+    border-radius: 5px;
+    margin-left: 58px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.form-border {
+    background: -webkit-linear-gradient(right, #47838b, #8fc8ce);
+    height: 1px;
+    width: 100%;
+}
+
+.form-content {
+    padding: 0px 60px;
+    border: none;
+    outline: none;
+	padding-top: 16px;
+}
+
+#submit-btn {
+    background: -webkit-linear-gradient(right, #47838b, #8fc8ce);
+    border: none;
+    border-radius: 21px;
+    box-shadow: 0px 1px 8px #7ba9dd;
+    cursor: pointer;
+    color: white;
+    font-family: "Raleway SemiBold", sans-serif;
+    height: 42.3px;
+    margin-left: 60px;
+    margin-top: 40px;
+    width: 150px;
+}
+
+#submit-btn:hover {
+    box-shadow: 0px 1px 18px #437d8f;
+}
+
+.navbar-nav {
+    margin-left: 50px;
+}
+
